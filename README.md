@@ -1,4 +1,4 @@
-# vca2_social_spatial
+# sheeran_vca2_social_spatial
 Companion repository for Sheeran et al. manuscript (vCA2 calcium imaging). Please contact Will Sheeran (william.sheeran@colorado.edu) and/or Zoe Donaldson (zoe.donaldson@colorado.edu) for questions.
 
 See also **zenodo link** for accompanying processed data.
