@@ -1,5 +1,7 @@
 # vca2_social_spatial
-Companion repository for Sheeran et al. manuscript (vCA2 calcium imaging)
+Companion repository for Sheeran et al. manuscript (vCA2 calcium imaging). Please contact Will Sheeran (william.sheeran@colorado.edu) and/or Zoe Donaldson (zoe.donaldson@colorado.edu) for questions.
+
+See also **zenodo link** for accompanying processed data.
 
 ### Notebooks:
 1. neural_behavioral_data_prep.ipynb : notebook that reshapes and aligns CNMF-E / Caiman outputs with behavioral data (outputs from Bento and ezTrack)
